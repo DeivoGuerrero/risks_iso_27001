@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "code": "A.5",
+        "name": "Políticas de seguridad de la información",
+        "description": "Definición, aprobación y gestión de políticas de seguridad de la información."
+    },
+    {
+        "id": 2,
+        "code": "A.6",
+        "name": "Organización de la seguridad de la información",
+        "description": "Roles, responsabilidades y estructuras para gestionar la seguridad de la información."
+    },
+    {
+        "id": 3,
+        "code": "A.7",
+        "name": "Seguridad de los recursos humanos",
+        "description": "Controles relacionados con la seguridad antes, durante y después de la contratación de empleados."
+    },
+    {
+        "id": 4,
+        "code": "A.8",
+        "name": "Gestión de activos",
+        "description": "Identificación, clasificación y protección de activos de información."
+    },
+    {
+        "id": 5,
+        "code": "A.9",
+        "name": "Control de acceso",
+        "description": "Gestión del acceso a sistemas y datos basados en necesidades de negocio y seguridad."
+    },
+    {
+        "id": 6,
+        "code": "A.10",
+        "name": "Cifrado",
+        "description": "Uso de criptografía para proteger la confidencialidad, integridad y autenticidad de la información."
+    },
+    {
+        "id": 7,
+        "code": "A.11",
+        "name": "Seguridad física y del entorno",
+        "description": "Protección física de instalaciones, equipos y medios de almacenamiento de información."
+    },
+    {
+        "id": 8,
+        "code": "A.12",
+        "name": "Seguridad en las operaciones",
+        "description": "Controles para garantizar la operación segura de sistemas y servicios de información."
+    },
+    {
+        "id": 9,
+        "code": "A.13",
+        "name": "Seguridad en las comunicaciones",
+        "description": "Protección de la información en tránsito y mecanismos seguros de comunicación."
+    },
+    {
+        "id": 10,
+        "code": "A.14",
+        "name": "Adquisición, desarrollo y mantenimiento de sistemas",
+        "description": "Controles de seguridad en el ciclo de vida del desarrollo de software y sistemas."
+    },
+    {
+        "id": 11,
+        "code": "A.15",
+        "name": "Relaciones con proveedores",
+        "description": "Gestión de la seguridad en acuerdos con proveedores y terceros."
+    },
+    {
+        "id": 12,
+        "code": "A.16",
+        "name": "Gestión de incidentes de seguridad de la información",
+        "description": "Procedimientos y mecanismos para la gestión de incidentes de seguridad."
+    },
+    {
+        "id": 13,
+        "code": "A.17",
+        "name": "Aspectos de seguridad en la continuidad del negocio",
+        "description": "Planificación y preparación para la continuidad de la seguridad de la información."
+    },
+    {
+        "id": 14,
+        "code": "A.18",
+        "name": "Cumplimiento",
+        "description": "Garantizar el cumplimiento de requisitos legales, normativos y contractuales en seguridad."
+    }
+]

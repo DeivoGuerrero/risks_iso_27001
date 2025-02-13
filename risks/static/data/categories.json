@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Controles Organizacionales",
+        "description": "Controles relacionados con la gestión y gobernanza de la seguridad de la información."
+    },
+    {
+        "id": 2,
+        "name": "Controles de Personas",
+        "description": "Controles para garantizar la seguridad del personal, terceros y contratistas."
+    },
+    {
+        "id": 3,
+        "name": "Controles Físicos",
+        "description": "Controles de seguridad física y ambiental para la protección de los activos de información."
+    },
+    {
+        "id": 4,
+        "name": "Controles Tecnológicos",
+        "description": "Controles aplicados a sistemas, redes, software y tecnologías de la información."
+    }
+]

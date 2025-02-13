@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "code": "5.1",
+        "name": "Políticas de seguridad de la información",
+        "category": 1,
+        "section": 1,
+        "description": "Las políticas de seguridad de la información deben estar definidas, aprobadas y comunicadas en la organización.",
+        "objective": "Garantizar un marco de gestión de la seguridad de la información."
+    },
+    {
+        "id": 2,
+        "code": "5.2",
+        "name": "Roles y responsabilidades en seguridad",
+        "category": 1,
+        "section": 1,
+        "description": "Deben definirse roles y responsabilidades claras para la seguridad de la información en la organización.",
+        "objective": "Asegurar la asignación de responsabilidades en seguridad de la información."
+    },
+    {
+        "id": 3,
+        "code": "6.1",
+        "name": "Organización de la seguridad de la información",
+        "category": 1,
+        "section": 2,
+        "description": "Se deben establecer estructuras de gestión para coordinar y controlar la seguridad de la información.",
+        "objective": "Asegurar que la seguridad de la información se gestiona de manera eficaz."
+    },
+    {
+        "id": 4,
+        "code": "7.1",
+        "name": "Proceso de contratación",
+        "category": 2,
+        "section": 3,
+        "description": "Se deben definir y aplicar controles de seguridad antes de la contratación del personal.",
+        "objective": "Garantizar que los empleados entienden sus responsabilidades en seguridad."
+    },
+    {
+        "id": 5,
+        "code": "8.1",
+        "name": "Inventario de activos",
+        "category": 1,
+        "section": 4,
+        "description": "Debe existir un inventario actualizado de activos de información y se deben asignar responsables.",
+        "objective": "Asegurar la gestión adecuada de los activos de información."
+    },
+    {
+        "id": 6,
+        "code": "9.1",
+        "name": "Gestión de accesos",
+        "category": 4,
+        "section": 5,
+        "description": "El acceso a la información y sistemas debe estar restringido y basado en principios de mínimo privilegio.",
+        "objective": "Evitar accesos no autorizados a sistemas y datos."
+    },
+    {
+        "id": 7,
+        "code": "10.1",
+        "name": "Uso de criptografía",
+        "category": 4,
+        "section": 6,
+        "description": "Debe implementarse el uso de técnicas criptográficas para proteger la confidencialidad e integridad de la información.",
+        "objective": "Proteger la información sensible mediante cifrado."
+    },
+    {
+        "id": 8,
+        "code": "11.1",
+        "name": "Seguridad en las instalaciones",
+        "category": 3,
+        "section": 7,
+        "description": "Se deben establecer controles para evitar accesos físicos no autorizados a instalaciones y equipos.",
+        "objective": "Garantizar la protección física de los activos."
+    },
+    {
+        "id": 9,
+        "code": "12.1",
+        "name": "Seguridad en la operación",
+        "category": 4,
+        "section": 8,
+        "description": "Se deben implementar procedimientos para la gestión segura de las operaciones de TI.",
+        "objective": "Asegurar la continuidad de las operaciones de TI sin incidentes de seguridad."
+    },
+    {
+        "id": 10,
+        "code": "13.1",
+        "name": "Protección de redes",
+        "category": 4,
+        "section": 9,
+        "description": "Se deben establecer controles para proteger las redes y la información en tránsito.",
+        "objective": "Evitar el acceso no autorizado y la interceptación de datos en redes."
+    },
+    {
+        "id": 11,
+        "code": "14.1",
+        "name": "Seguridad en el desarrollo de software",
+        "category": 4,
+        "section": 10,
+        "description": "Debe incorporarse la seguridad en todas las fases del ciclo de vida del desarrollo de software.",
+        "objective": "Reducir vulnerabilidades en aplicaciones y sistemas."
+    },
+    {
+        "id": 12,
+        "code": "15.1",
+        "name": "Seguridad en acuerdos con proveedores",
+        "category": 1,
+        "section": 11,
+        "description": "Se deben establecer controles de seguridad en los acuerdos con terceros y proveedores.",
+        "objective": "Garantizar que los proveedores cumplan con requisitos de seguridad de la organización."
+    },
+    {
+        "id": 13,
+        "code": "16.1",
+        "name": "Gestión de incidentes de seguridad",
+        "category": 1,
+        "section": 12,
+        "description": "Se deben definir procedimientos para la identificación, respuesta y recuperación ante incidentes de seguridad.",
+        "objective": "Minimizar el impacto de incidentes de seguridad en la organización."
+    },
+    {
+        "id": 14,
+        "code": "17.1",
+        "name": "Continuidad del negocio",
+        "category": 1,
+        "section": 13,
+        "description": "Se deben establecer planes de continuidad del negocio con enfoque en la seguridad de la información.",
+        "objective": "Garantizar la resiliencia de los procesos críticos en caso de incidentes."
+    },
+    {
+        "id": 15,
+        "code": "18.1",
+        "name": "Cumplimiento con requisitos legales",
+        "category": 1,
+        "section": 14,
+        "description": "Debe asegurarse el cumplimiento de regulaciones, normas y contratos relacionados con seguridad de la información.",
+        "objective": "Evitar sanciones legales y riesgos de incumplimiento normativo."
+    }
+]
